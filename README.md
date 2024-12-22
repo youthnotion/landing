@@ -1,7 +1,7 @@
 ## **Privacy Policy**
 
-**Effective Date:** [Insert Date]  
-**Last Updated:** [Insert Date]  
+**Effective Date:** 22 December, 2024  
+**Last Updated:** 22 December, 2024
 
 At **Sunagorik**, your privacy is important to us. This Privacy Policy explains how we collect, use, share, and protect information about you when you use our app, website, or services.
 
@@ -83,5 +83,4 @@ We may update this policy to reflect changes in our practices or legal requireme
 
 ### **12. Contact Us**
 If you have questions or concerns about this Privacy Policy, please contact us at:  
-**Email**: [Insert Email Address]  
-**Address**: [Insert Physical Address]
+**Email**: nishorgo@youthnotion.org
