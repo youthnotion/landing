@@ -1,92 +1,87 @@
-Play Next.js is a free and **Open-source SaaS starter kit and boilerplate, designed and built for SaaS startups**, apps, businesses, and more. With its premium design and essential UI components and pages, it provides everything you need to kickstart a feature-rich SaaS website.
+## **Privacy Policy**
+
+**Effective Date:** [Insert Date]  
+**Last Updated:** [Insert Date]  
+
+At **Sunagorik**, your privacy is important to us. This Privacy Policy explains how we collect, use, share, and protect information about you when you use our app, website, or services.
+
+### **1. Information We Collect**
+We collect the following types of information to provide and improve our services:
+
+#### a. **Personal Information**  
+- Name, email address, phone number, and other contact details provided during registration.  
+- Profile photos and identity verification documents, if applicable.  
+
+#### b. **Reported Issues and Media**  
+- Photos, descriptions, and geolocation data submitted when reporting issues through the app.  
+
+#### c. **Environmental Data (via ASTRA)**  
+- Real-time data such as air quality, temperature, humidity, and other metrics collected by integrated environmental sensors.  
+
+#### d. **Usage Data**  
+- App interactions, IP address, device type, operating system, and other technical information.  
 
 
-[![Play Next.js](https://github.com/NextJSTemplates/play-nextjs/blob/main/nextjs-play.png)](https://play.nextjstemplates.com)
+### **2. How We Use Your Information**
+Your information is used to:  
+- Facilitate communication between citizens and local authorities for issue resolution.  
+- Provide transparency and real-time updates on reported issues.  
+- Analyze and prioritize issues using voting and data analysis tools.  
+- Enhance user experience and app features.  
+- Provide environmental insights collected via ASTRA sensors.  
+- Deliver training and educational programs, such as civic literacy workshops.
 
-## Free SaaS Boilerplate and Starter Kit for Next.js 🚀
-Play Next.js SaaS Boilerplate and Starter Kit is a free, open-source solution ideal for startups, SaaS companies, and more. It offers essential UI components, authentication and database integration, and Stripe integration. Its superior design and functionality make it a go-to choice for launching a feature-rich SaaS website efficiently.
 
-### [🚀 View Live Demo](https://play.nextjstemplates.com/)
+### **3. Data Sharing and Disclosure**
+We do not sell your personal information. However, your data may be shared with:  
 
-### [🔌 Documentation](https://nextjstemplates.com/docs)
+- **Local Authorities and Community Organizations**: To address reported issues effectively.  
+- **Third-Party Service Providers**: For app maintenance, analytics, and other operational purposes under strict confidentiality agreements.  
+- **Legal and Regulatory Compliance**: If required to comply with applicable laws or respond to valid legal requests.
 
-### All Essential Integrations - DB, Auth, Payment, MDX, and more ⚡
-Play Next.js SaaS Starter kit includes all the key integrations required to build a fully functional SaaS platform.
 
-- **PostgreSQL for Database**: Comes with PostgreSQL integration with Prisma which is a powerful and open-source relational database system ensures data integrity and reliability.
+### **4. Data Security**
+We employ industry-standard measures to protect your information, including:  
+- **Encryption**: All sensitive data is protected with AES encryption during storage and transmission.  
+- **Access Controls**: Only authorized personnel have access to sensitive data.  
+- **Regular Security Audits**: To ensure the app meets modern security standards.
 
-- **NextAuth for Authentication**: Play Next.js utilizes NextAuth, a versatile solution that provides secure login and user management.
 
-- **MDX for Blogs**: MDX uniquely combines Markdown and JSX, Play Next.js comes with complete blogging solution to create and maintain blog using MDX.
+### **5. Your Rights**
+You have the following rights regarding your data:  
+- **Access and Update**: View and update your personal information.  
+- **Delete**: Request the deletion of your account and associated data.  
+- **Data Portability**: Obtain a copy of the data we hold about you.  
+- **Opt-Out**: Manage or withdraw your consent for data processing.
 
-- **Stripe for Subscription Payments**: Stripe, a globally trusted payment processing platform, offers robust security features and smooth checkout experiences.
 
-These integrations work together to simplify development and enhance the user experience.
+### **6. Data Retention**
+We retain your data only as long as necessary to fulfill the purposes outlined in this Privacy Policy or as required by law.  
 
-### Essential SaaS Pages & Components and Styled Using Tailwind CSS 🎨
-This Next.js SaaS Boilerplate and Starter Kit is **styled using Tailwind CSS**, a highly flexible and customizable utility-first CSS framework. Leveraging the power of Tailwind, each component and page of this kit, including **login, signup, blog, about, and others, has been handcrafted to offer top-notch aesthetics** while maintaining peak usability. 
 
-### Crafted Using [🎨 TailGrids Components](https://tailgrids.com)
+### **7. Cookies and Tracking Technologies**
+The app may use cookies or similar technologies to enhance user experience. You can manage your cookie preferences through your device or browser settings.
 
-Play Next.js SaaS boilerplate, you can enjoy a professional-looking website that offers seamless operation, all while significantly reducing your web development time and effort.
-___
 
-### 🚀 Deploy Now
+### **8. Ads**
+Sunagorik may or may not display ads. If ads are included:  
+- They comply with Google Play's advertising policies.  
+- We do not share your personal information with advertisers without your consent.  
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2Fplay-nextjs)
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/NextJSTemplates/play-nextjs)
+### **9. Third-Party Links**
+Our app may contain links to third-party websites. We are not responsible for their privacy practices. Please review their policies independently.
 
-### Setup Instructions
 
-Follow these steps to set up and run this template on your local machine:
+### **10. Children's Privacy**
+Our app is not intended for children under the age of 13. We do not knowingly collect data from children. Parents and guardians can contact us to request the deletion of such data.
 
-1. Begin by downloading and extracting the template from **Next.js Templates**.
 
-2. Once you've done that, navigate into the template directory using the **cd** command.
+### **11. Changes to This Privacy Policy**
+We may update this policy to reflect changes in our practices or legal requirements. Significant updates will be communicated through the app or via email.  
 
-3. Install the necessary dependencies by running either of the following commands:
 
-```bash
-    npm install
-```
-
-or
-
-```bash
-    yarn install
- ```
-
-4. Now you're ready to start the project on your local server. Use the following command to get it up and running:
-
-```bash
-    npm run dev
- ```
-
-This will launch the template on [localhost:3000](http://localhost:3000).
-
-Our comprehensive documentation includes all the guides you'll need for integrating various features.
-
-### Deployment on PaaS
-
-If your project is hosted on a GitHub repository, you can deploy it using free and user-friendly platforms like [Vercel](https://vercel.com/) or [Netlify](https://netlify.com/). Both provide generous free tiers for hosting Next.js projects.
-
-### License Information
-Play is Free is completely free and open-source. Feel free to use it for both personal and commercial projects.
-
-### Show Your Support
-If you appreciate this project, please consider starring this repository. Your support encourages our team to continue creating more content like this and helps us to reach more users like you!
-
-## Explore More Templates
-For a wider range of options, feel free to browse our collection of [Next.js Templates, Boilerplates and Starter Kits](https://nextjstemplates.com/templates).
-
-### Update Log
-**21 March 2024**
-- Upgraded to Next.js 14
-- Updated stripe integration
-- Fixed auth issues
-- Updated all the packages
-- Update ts config & fix all the issues
-- Update signin & signup page Design
-- Integrated Magic link signin
-- & Forgot password
+### **12. Contact Us**
+If you have questions or concerns about this Privacy Policy, please contact us at:  
+**Email**: [Insert Email Address]  
+**Address**: [Insert Physical Address]
